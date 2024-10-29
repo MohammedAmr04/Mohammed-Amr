@@ -8,13 +8,13 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Back-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20developer;Always%20interested%20in%20learning new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 # Hi, I'm Mohammed Amr 👋
 
 ## 🏢 About Me
-I'm a final year Computer Science student at Helwan University. I am passionate about technology and enjoy collaborating on projects that make a difference.
+I'm a final-year Computer Science student at Helwan University. I am passionate about technology and enjoy collaborating on projects that make a difference.
 
 ## 👨‍💻 Continuous Learning
 As a CS student, I constantly learn and explore new technologies to improve my skills. My areas of interest include:
