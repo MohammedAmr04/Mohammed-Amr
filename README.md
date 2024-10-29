@@ -46,9 +46,6 @@ As a CS student, I constantly learn and explore new technologies to improve my s
 <a href="www.linkedin.com/in/mohammed-amr97" target="_blank"><img src="https://img.shields.io/badge/Mohammed%20Amr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/xx_albrzaily_xx" target="_blank"><img src="https://img.shields.io/badge/-Mohammed%20Amr-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-  ### Problem Solving Accounts :
-<a href="https://leetcode.com/u/BadryAnas/" target="_blank"><img src="https://img.shields.io/badge/-Badry%20Anas-0077B5?style=for-the-badge&logo=Leetcode&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/BadryAnas" target="_blank"><img src="https://img.shields.io/badge/-Badry%20Anas-0077B5?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
