@@ -11,7 +11,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3A5E45&width=480&lines=Front-end+developer;Always+interested+in+Knowledge" alt="Typing SVG" /></a></p> 
 
 # Hi, I'm Mohammed Amr 👋
+<p align="center" style="padding: 10px;">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=MohammedAmr04&show_icons=true&theme=dracula&count_private=true" />
+</p>
 
+<p align="center"> 
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAmr04&theme=dracula" />
+</p>
 ## 🏢 About Me
 I'm a final-year Computer Science student at Helwan University. I am passionate about technology and enjoy collaborating on projects that make a difference.
 
