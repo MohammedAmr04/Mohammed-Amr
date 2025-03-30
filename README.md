@@ -63,7 +63,7 @@ As a CS student, I keep exploring new technologies and improving my skills. My a
 ---
 
 ### 📫 Connect with Me
-<a href="www.linkedin.com/in/mohammed-amr97" target="_blank">
+<a href="https://www.linkedin.com/in/mohammed-amr-abd-elsayed?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
   <img src="https://img.shields.io/badge/Mohammed%20Amr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/xx_albrzaily_xx" target="_blank">
