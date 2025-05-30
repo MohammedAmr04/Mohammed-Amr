@@ -62,6 +62,7 @@ Here are the technologies I'm working with:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="20" alt="fsharp logo" />
 </div>
+
 ## Skills
 - **Frontend**: React, JavaScript, HTML, CSS, TypeScript, Bootstrap, Next.js
 - **Backend**: Node.js, Express, Spring Boot, .NET, F#, Python, Django, PHP
