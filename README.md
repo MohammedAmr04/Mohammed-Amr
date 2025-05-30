@@ -61,6 +61,9 @@ Here are the technologies I'm working with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="csharp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" height="20" alt="fsharp logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="sql server logo" />
 </div>
 
 ## Skills
@@ -74,7 +77,7 @@ Here are the technologies I'm working with:
 <!-- Add your projects here -->
 
 ## Get in Touch
-- 📧 Email: [mohammed.amr@example.com]
+- 📧 Email: [mohammedamr200497@gmail.com]
 - 🔗 LinkedIn: [Mohammed Amr](https://www.linkedin.com/in/mohammed-amr-33ba93243/)
 - 🐦 Twitter/X: [@usually_brazily](https://x.com/usually_brazily)
 
